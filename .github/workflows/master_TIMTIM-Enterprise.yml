@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'TIMTIM-Enterprise'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d32d77038100486eb19c4262a0d94673 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_142096e65ffc493b89b9918eec4f14ec }}
         package: .
